@@ -1,5 +1,15 @@
 #box{
-    background-color: blue;
+    background-color: white;
+    text-align:center;
+    color:red;
+    text-decoration:underline;
+    font-weight: 900;
+    font-family : arial, roboto;
+    line-height: 120px;
+    width: 800px;
+
+
+
 }
 
 .heading{
@@ -9,4 +19,20 @@ color:red
 button{
     background-color: green;
 
+}
+
+
+.capitalized-and-centred{
+    text-align: center;
+    text-transform: capitalize;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+
+#outer{
+    font-size: 25px;
+}
+
+#inner{
+    font-size: 10px;
 }
