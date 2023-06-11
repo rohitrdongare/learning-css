@@ -36,3 +36,21 @@ button{
 #inner{
     font-size: 10px;
 }
+
+.boxes{
+    text-align: center;
+    margin: 50px 50px 20px 200px;
+    padding: 10px;
+    height:100px;
+    width:100px;
+    
+   background-color: yellow;
+   border-width : 2px;
+   border-style : solid;
+   border-color : black;
+
+   border:2px solid blue
+
+
+
+}
